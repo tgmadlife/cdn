@@ -2,4 +2,4 @@
 
 **20260510-v2**
 
-CDN: [`https://rawcdn.githack.com/tgmadlife/cdn/20260510-v1/<file path>`](https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/)
+CDN: [`https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/<file path>`](https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/)
