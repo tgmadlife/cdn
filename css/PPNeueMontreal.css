@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'PP Neue Montreal';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPNeueMontreal/PPNeueMontreal-Hairline.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Neue Montreal';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPNeueMontreal/PPNeueMontreal-HairlineItalic.otf') format('opentype');
+  font-weight: 100;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'PP Neue Montreal';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPNeueMontreal/PPNeueMontreal-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Neue Montreal';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPNeueMontreal/PPNeueMontreal-LightItalic.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'PP Neue Montreal';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPNeueMontreal/PPNeueMontreal-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Neue Montreal';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPNeueMontreal/PPNeueMontreal-Italic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'PP Neue Montreal';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPNeueMontreal/PPNeueMontreal-Semibold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Neue Montreal';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPNeueMontreal/PPNeueMontreal-SemiboldItalic.otf') format('opentype');
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'PP Neue Montreal';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPNeueMontreal/PPNeueMontreal-Extrabold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Neue Montreal';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPNeueMontreal/PPNeueMontreal-ExtraboldItalic.otf') format('opentype');
+  font-weight: 800;
+  font-style: italic;
+}
