@@ -1,0 +1,96 @@
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPEditorialNew/PPEditorialNew-Thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPEditorialNew/PPEditorialNew-ThinItalic.woff') format('woff');
+  font-weight: 100;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPEditorialNew/PPEditorialNew-Ultralight.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPEditorialNew/PPEditorialNew-UltralightItalic.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPEditorialNew/PPEditorialNew-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPEditorialNew/PPEditorialNew-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPEditorialNew/PPEditorialNew-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPEditorialNew/PPEditorialNew-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPEditorialNew/PPEditorialNew-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPEditorialNew/PPEditorialNew-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPEditorialNew/PPEditorialNew-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPEditorialNew/PPEditorialNew-BoldItalic.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPEditorialNew/PPEditorialNew-Ultrabold.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPEditorialNew/PPEditorialNew-UltraboldItalic.woff') format('woff');
+  font-weight: 800;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPEditorialNew/PPEditorialNew-Heavy.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PP Editorial New';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/PPEditorialNew/PPEditorialNew-HeavyItalic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+}
