@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'Feature Display Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Display_Condensed_Family/FeatureDisplayCondensed-Regular-Trial.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Feature Display Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Display_Condensed_Family/FeatureDisplayCondensed-RegularItalic-Trial.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Feature Display Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Display_Condensed_Family/FeatureDisplayCondensed-Medium-Trial.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Feature Display Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Display_Condensed_Family/FeatureDisplayCondensed-MediumItalic-Trial.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Feature Display Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Display_Condensed_Family/FeatureDisplayCondensed-Bold-Trial.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Feature Display Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Display_Condensed_Family/FeatureDisplayCondensed-BoldItalic-Trial.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Feature Display Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Display_Condensed_Family/FeatureDisplayCondensed-Extrabold-Trial.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Feature Display Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Display_Condensed_Family/FeatureDisplayCondensed-ExtraboldItalic-Trial.otf') format('opentype');
+  font-weight: 800;
+  font-style: italic;
+}

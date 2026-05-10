@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'Geist';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Geist/GeistVar.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Geist';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Geist/Geist-ItalicVar.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Geist Mono';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Geist/GeistMonoVar.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Geist Mono';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Geist/GeistMono-ItalicVar.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Geist Pixel Circle';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Geist/GeistPixel-Circle.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Geist Pixel Grid';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Geist/GeistPixel-Grid.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Geist Pixel Line';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Geist/GeistPixel-Line.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Geist Pixel Square';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Geist/GeistPixel-Square.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Geist Pixel Triangle';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Geist/GeistPixel-Triangle.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}

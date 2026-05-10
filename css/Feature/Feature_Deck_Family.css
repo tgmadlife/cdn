@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'Feature Deck';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Family/FeatureDeck-Light-Trial.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Feature Deck';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Family/FeatureDeck-LightItalic-Trial.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Feature Deck';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Family/FeatureDeck-Regular-Trial.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Feature Deck';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Family/FeatureDeck-RegularItalic-Trial.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Feature Deck';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Family/FeatureDeck-Medium-Trial.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Feature Deck';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Family/FeatureDeck-MediumItalic-Trial.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Feature Deck';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Family/FeatureDeck-Bold-Trial.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Feature Deck';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Family/FeatureDeck-BoldItalic-Trial.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Feature Deck';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Family/FeatureDeck-Extrabold-Trial.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Feature Deck';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Family/FeatureDeck-ExtraboldItalic-Trial.otf') format('opentype');
+  font-weight: 800;
+  font-style: italic;
+}

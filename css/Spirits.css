@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'Spirits Neutral';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Spirits/Spirits%20Neutral%20Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Spirits Neutral';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Spirits/Spirits%20Neutral%20Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Spirits Neutral';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Spirits/Spirits%20Neutral%20Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Spirits Neutral';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Spirits/Spirits%20Neutral%20Black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Spirits Soft';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Spirits/Spirits%20Soft%20Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Spirits Soft';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Spirits/Spirits%20Soft%20Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Spirits Soft';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Spirits/Spirits%20Soft%20Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Spirits Soft';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Spirits/Spirits%20Soft%20Black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}

@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Libre Caslon Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/LibreCaslon/LibreCaslonCondensedVar.woff2') format('woff2');
+  font-weight: 400 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Libre Caslon Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/LibreCaslon/LibreCaslonCondensed-ItalicVar.woff2') format('woff2');
+  font-weight: 400 700;
+  font-style: italic;
+}

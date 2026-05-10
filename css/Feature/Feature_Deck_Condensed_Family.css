@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'Feature Deck Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Condensed_Family/FeatureDeckCondensed-Regular-Trial.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Feature Deck Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Condensed_Family/FeatureDeckCondensed-RegularItalic-Trial.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Feature Deck Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Condensed_Family/FeatureDeckCondensed-Medium-Trial.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Feature Deck Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Condensed_Family/FeatureDeckCondensed-MediumItalic-Trial.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Feature Deck Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Condensed_Family/FeatureDeckCondensed-Bold-Trial.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Feature Deck Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Condensed_Family/FeatureDeckCondensed-BoldItalic-Trial.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Feature Deck Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Condensed_Family/FeatureDeckCondensed-Extrabold-Trial.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Feature Deck Condensed';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Deck_Condensed_Family/FeatureDeckCondensed-ExtraboldItalic-Trial.otf') format('opentype');
+  font-weight: 800;
+  font-style: italic;
+}

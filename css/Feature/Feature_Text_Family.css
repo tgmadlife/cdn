@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Feature Text';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Text_Family/FeatureText-Regular-Trial.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Feature Text';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Text_Family/FeatureText-RegularItalic-Trial.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Feature Text';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Text_Family/FeatureText-Bold-Trial.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Feature Text';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Text_Family/FeatureText-BoldItalic-Trial.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Feature Text';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Text_Family/FeatureText-Extrabold-Trial.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Feature Text';
+  src: url('https://rawcdn.githack.com/tgmadlife/cdn/20260510-v2/fonts/Feature/Feature_Text_Family/FeatureText-ExtraboldItalic-Trial.otf') format('opentype');
+  font-weight: 800;
+  font-style: italic;
+}
